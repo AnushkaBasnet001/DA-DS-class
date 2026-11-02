@@ -1,0 +1,1 @@
+{"Name of library": "anu", "Address of the library": "bkt", "Books": [{"Book title": "a", "Author": "a", "Number of pages": 1, "Book type": "Physical"}]}*{"Name of library": "aayu", "Address of the library": "bkt", "Books": [{"Book title": "b", "Author": "b", "Number of pages": 1, "Book size in mb": 23.0, "Book type": "Ebook"}]}*
